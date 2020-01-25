@@ -1,0 +1,4 @@
+# Ignore these files 
+.env
+node-modules
+package-lock.json
